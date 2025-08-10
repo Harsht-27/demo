@@ -1,4 +1,4 @@
 # demo
 This is my first repository.
 <br>
-Author- Harshit Bisht
+Author- Harshit Singh(Sanajana)
